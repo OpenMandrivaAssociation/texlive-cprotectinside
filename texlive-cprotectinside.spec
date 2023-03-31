@@ -1,6 +1,6 @@
 Name:		texlive-cprotectinside
 Version:	63833
-Release:	1
+Release:	2
 Summary:	Use cprotect arbitrarily nested
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cprotectinside
