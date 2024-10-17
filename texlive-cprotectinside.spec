@@ -3,7 +3,7 @@ Version:	63833
 Release:	2
 Summary:	Use cprotect arbitrarily nested
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cprotectinside
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/cprotectinside
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cprotectinside.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/cprotectinside.doc.r%{version}.tar.xz
